@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\doubl\\.nuget\\packages\\": {}
+    "C:\\Users\\doubl\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Dot net learnings\\Introduction to CSharp\\Introduction to CSharp.csproj",
-      "projectName": "Introduction to CSharp",
-      "projectPath": "D:\\Study\\Dot net learnings\\Introduction to CSharp\\Introduction to CSharp.csproj",
+      "projectUniqueName": "D:\\Study\\Dot net learnings\\DevskillTraining\\DST01\\DST01\\DST01.csproj",
+      "projectName": "DST01",
+      "projectPath": "D:\\Study\\Dot net learnings\\DevskillTraining\\DST01\\DST01\\DST01.csproj",
       "packagesPath": "C:\\Users\\doubl\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\Dot net learnings\\Introduction to CSharp\\obj\\",
+      "outputPath": "D:\\Study\\Dot net learnings\\DevskillTraining\\DST01\\DST01\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\doubl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

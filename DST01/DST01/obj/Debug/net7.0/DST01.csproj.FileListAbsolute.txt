@@ -1,0 +1,15 @@
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\bin\Debug\net7.0\DST01.exe
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\bin\Debug\net7.0\DST01.deps.json
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\bin\Debug\net7.0\DST01.runtimeconfig.json
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\bin\Debug\net7.0\DST01.dll
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\bin\Debug\net7.0\DST01.pdb
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\DST01.csproj.AssemblyReference.cache
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\DST01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\DST01.AssemblyInfoInputs.cache
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\DST01.AssemblyInfo.cs
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\DST01.csproj.CoreCompileInputs.cache
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\DST01.dll
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\refint\DST01.dll
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\DST01.pdb
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\DST01.genruntimeconfig.cache
+D:\Study\Dot net learnings\DevskillTraining\DST01\DST01\obj\Debug\net7.0\ref\DST01.dll
