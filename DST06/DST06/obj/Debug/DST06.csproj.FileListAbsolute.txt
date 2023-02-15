@@ -1,0 +1,8 @@
+D:\Study\Dot net learnings\DevskillTraining\DST06\DST06\bin\Debug\DST06.exe.config
+D:\Study\Dot net learnings\DevskillTraining\DST06\DST06\bin\Debug\DST06.exe
+D:\Study\Dot net learnings\DevskillTraining\DST06\DST06\bin\Debug\DST06.pdb
+D:\Study\Dot net learnings\DevskillTraining\DST06\DST06\obj\Debug\DST06.csproj.AssemblyReference.cache
+D:\Study\Dot net learnings\DevskillTraining\DST06\DST06\obj\Debug\DST06.csproj.SuggestedBindingRedirects.cache
+D:\Study\Dot net learnings\DevskillTraining\DST06\DST06\obj\Debug\DST06.csproj.CoreCompileInputs.cache
+D:\Study\Dot net learnings\DevskillTraining\DST06\DST06\obj\Debug\DST06.exe
+D:\Study\Dot net learnings\DevskillTraining\DST06\DST06\obj\Debug\DST06.pdb
