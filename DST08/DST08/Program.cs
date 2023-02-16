@@ -10,6 +10,9 @@ namespace DST08
     {
         static void Main(string[] args)
         {
+            Human h1 = new Student(1, "John", 23);
+
+
         }
     }
 }
