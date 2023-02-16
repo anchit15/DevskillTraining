@@ -23,12 +23,15 @@ namespace DST06
             this.Age = Age;
         }
 
+        //public Student(string Name, int Age) => (this.Name, this.Age) = (Name, Age);
+
         /* public Student()        //ctor + tab tab
          {
              Age = 18;
              Name = "John Doe"; 
          }*/
         public Student() => (Age, Name) = (18, "John Doe");     //Same as the constructor above
+        // public Student() => Age=18;  Shorthand
 
         public Student(string Name)
         {
@@ -36,11 +39,20 @@ namespace DST06
             this.Age = 18;
         }
 
+        ~Student()
+        {
+            Console.WriteLine("Destructor");
+
+        }
+        
+        //~Student() => Console.WriteLine("Destructor called");
         public void Display()
         {
             Console.WriteLine(Name);
             Console.WriteLine(Age);
         }
+
+        
         
     }
 }
