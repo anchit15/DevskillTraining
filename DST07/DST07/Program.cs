@@ -13,7 +13,8 @@ namespace DST07
             /*Student s1 = new Student();
             s1.Display();*/
 
-            Console.WriteLine("Enter Radius: ");
+            Console.Write("Enter Radius: ");
+            Console.WriteLine();
             Circle c1 = new Circle(Convert.ToDouble(Console.ReadLine()));
             c1.CircleDetails();
 
