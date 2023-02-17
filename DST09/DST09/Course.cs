@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1
+namespace DST09
 {
-    public class Class1
+    internal class Course
     {
+        public string CourseName { get; set; }
+        public int CourseFee { get; set; }
     }
 }

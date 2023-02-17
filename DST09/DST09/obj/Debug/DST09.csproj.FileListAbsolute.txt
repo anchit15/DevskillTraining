@@ -1,0 +1,11 @@
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\bin\Debug\DST09.exe.config
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\bin\Debug\DST09.exe
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\bin\Debug\DST09.pdb
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\bin\Debug\ClassLibrary2.dll
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\bin\Debug\ClassLibrary2.pdb
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\obj\Debug\DST09.csproj.AssemblyReference.cache
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\obj\Debug\DST09.csproj.SuggestedBindingRedirects.cache
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\obj\Debug\DST09.csproj.CoreCompileInputs.cache
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\obj\Debug\DST09.csproj.CopyComplete
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\obj\Debug\DST09.exe
+D:\Study\Dot net learnings\DevskillTraining\DST09\DST09\obj\Debug\DST09.pdb
