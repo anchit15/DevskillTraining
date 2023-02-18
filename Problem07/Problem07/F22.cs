@@ -8,7 +8,7 @@ namespace Problem07
 {
     internal class F22 : IFighterPlane
     {
-        public IWeapon PrimaryWeapon { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public IWeapon PrimaryWeapon { get; set; }
         public IWeapon SecondaryWeapon { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public void Display()
