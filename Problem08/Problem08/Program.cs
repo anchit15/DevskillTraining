@@ -13,7 +13,10 @@ namespace Problem08
         {
             var b = new List<IBook>();
             
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Welcome TO ABC Library System");
+            Console.ResetColor();
             while (true)
             {
                 Console.WriteLine("Please Select an Option: ");
@@ -32,13 +35,17 @@ namespace Problem08
                         
                         if (b.Any(x=>x.BookCode==b1.BookCode))
                         {
+                            Console.ForegroundColor= ConsoleColor.Red;
                             Console.WriteLine("Sorry. Book already exists");
+                            Console.ResetColor();
                            // b.Remove(b1);
                         }
                         else
                         {
                             b.Add(b1);
+                            Console.ForegroundColor = ConsoleColor.Green;
                             Console.WriteLine("Book Successfully Added to Library");
+                            Console.ResetColor();
                         }
 
 
@@ -82,7 +89,10 @@ namespace Problem08
                     break;
                 }
             }
+            Console.BackgroundColor = ConsoleColor.DarkGray;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("Thank you for using ABC Library Sysem");
+            Console.ResetColor();
             Console.ReadLine();
             
         }

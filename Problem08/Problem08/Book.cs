@@ -30,19 +30,25 @@ namespace Problem08
         {
             if (quantity > Stock)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Sorry. Given quantity not available");
+                Console.ResetColor();
             }
             else
             {
                 Stock-=quantity;
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Successfully Book Borrowed from Library");
+                Console.ResetColor();
             }
             
         }
         public void Return(int quantity)
         {
             Stock+=quantity;
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Successfully Book Returned to Library");
+            Console.ResetColor();
         }
 
         public void Display()
