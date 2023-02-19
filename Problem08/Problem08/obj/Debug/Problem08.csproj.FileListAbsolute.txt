@@ -1,0 +1,8 @@
+D:\Study\Dot net learnings\DevskillTraining\Problem08\Problem08\bin\Debug\Problem08.exe.config
+D:\Study\Dot net learnings\DevskillTraining\Problem08\Problem08\bin\Debug\Problem08.exe
+D:\Study\Dot net learnings\DevskillTraining\Problem08\Problem08\bin\Debug\Problem08.pdb
+D:\Study\Dot net learnings\DevskillTraining\Problem08\Problem08\obj\Debug\Problem08.csproj.AssemblyReference.cache
+D:\Study\Dot net learnings\DevskillTraining\Problem08\Problem08\obj\Debug\Problem08.csproj.SuggestedBindingRedirects.cache
+D:\Study\Dot net learnings\DevskillTraining\Problem08\Problem08\obj\Debug\Problem08.csproj.CoreCompileInputs.cache
+D:\Study\Dot net learnings\DevskillTraining\Problem08\Problem08\obj\Debug\Problem08.exe
+D:\Study\Dot net learnings\DevskillTraining\Problem08\Problem08\obj\Debug\Problem08.pdb
